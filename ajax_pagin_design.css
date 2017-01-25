@@ -1,0 +1,42 @@
+
+#Name{
+	
+	margin-top: 5px;
+}
+#email{
+	
+	margin-top: 5px;
+}
+#message{
+	
+	margin-top: 5px;
+}
+#date{
+	
+	margin-top: 5px;
+}
+#submit{
+	/*margin-left: 100px;*/
+	margin-top: 15px;
+}
+
+.container{
+	margin-top: 25px;
+}
+#btns{
+	padding-left: 500px;
+}
+.control-label{
+	margin-top: 15px;
+}
+th{
+	background-color: grey;
+	/*text-align: center;*/
+}
+td{
+	background-color: white;
+	/*text-align: center;*/
+}
+.modal{
+	background-color: silver;
+}

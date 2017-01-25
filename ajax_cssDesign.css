@@ -1,0 +1,34 @@
+#info{  
+	margin-left: 300px;
+    margin-top: 10px;
+    align:center;
+}
+#Name{
+	margin-left: 25px;
+	margin-top: 7px;
+}
+#email{
+	margin-left: 27px;
+	margin-top: 7px;
+}
+#message{
+	margin-left: 5px;
+	margin-top: 7px;
+}
+#date{
+	margin-left: 35px;
+	margin-top: 7px;
+}
+#submit{
+	margin-left: 100px;
+	margin-top: 15px;
+}
+.container{
+	margin-top: 25px;
+}
+#btns{
+	margin-left: 450px;
+}
+th{
+	background-color: blue;
+}
